@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "project_automation_functions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7063",
+      "launchBrowser": false
+    }
+  }
+}
